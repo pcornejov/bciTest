@@ -9,6 +9,10 @@ Restful Api para test tecnico de bci
 
 > El test tecnico usa una base de datos en memoria de tipo H2, el modelo de base de datos se crea al lanzar la app.
 
+> Diagrama de solucion: <br>
+![diagrama de flujo negocio-Estandar drawio (1) drawio](https://github.com/pcornejov/bciTest/assets/45262334/1cace9c1-e0b5-497d-8907-95a242743888)
+
+
 ## Swagger
 
 - http://localhost:8080/swagger-ui/index.html
