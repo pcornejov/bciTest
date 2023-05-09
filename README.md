@@ -1,5 +1,7 @@
 # Bci java Test
-Restful Api to bci java test
+Restful Api para test tecnico de bci
+
+> Las versiones usadas en este proyecto son las siguientes: <br> `Java 17.`<br> `Springboot: 3.0.6` <br> `maven: 3.8.2`
 
 > Para compilar y ejecutar el proyecto, basta con ejecutar el comando`mvn spring-boot:run`.
 
